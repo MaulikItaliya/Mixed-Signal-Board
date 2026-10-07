@@ -120,7 +120,7 @@ Mixed-Signal-Board/
 - [x] Electrical schematic
 - [x] PCB layout
 - [x] Design overview document
-- [ ] PCB documentation (layer views, 3D renders)
+- [x] PCB documentation (layer views, 3D renders)
 - [ ] Bill of Materials
 - [ ] Manufacturing files (Gerber / drill)
 - [ ] Board bring-up and test results
