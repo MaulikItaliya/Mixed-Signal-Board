@@ -121,7 +121,7 @@ Mixed-Signal-Board/
 - [x] PCB layout
 - [x] Design overview document
 - [x] PCB documentation (layer views, 3D renders)
-- [ ] Bill of Materials
+- [x] Bill of Materials
 - [ ] Manufacturing files (Gerber / drill)
 - [ ] Board bring-up and test results
 
