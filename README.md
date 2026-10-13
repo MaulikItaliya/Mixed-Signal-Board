@@ -122,7 +122,7 @@ Mixed-Signal-Board/
 - [x] Design overview document
 - [x] PCB documentation (layer views, 3D renders)
 - [x] Bill of Materials
-- [ ] Manufacturing files (Gerber / drill)
+- [x] Manufacturing files (Gerber / drill)
 - [ ] Board bring-up and test results
 
 ---
